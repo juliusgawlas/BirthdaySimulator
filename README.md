@@ -7,10 +7,10 @@ Looking at https://en.wikipedia.org/wiki/Birthday_problem#/media/File:Birthday_P
 
 We will write a program to perform simulation of this paradox. Your program will do the following:
 
-· Fill an array of size 23 with random numbers ranging from 1 to 365 (representing birthdays).
-· Determine if two or more numbers in the array are the same (same birthdays).
-· Repeat 1000 times, and print the percent of times that at least two birthdays are the same. 
-· Repeat the above for an array of size 40 and 70.
+* Fill an array of size 23 with random numbers ranging from 1 to 365 (representing birthdays).
+* Determine if two or more numbers in the array are the same (same birthdays).
+* Repeat 1000 times, and print the percent of times that at least two birthdays are the same. 
+* Repeat the above for an array of size 40 and 70.
 
 We will organize this code into two functions so starter code and main program are provided for you. 
 
